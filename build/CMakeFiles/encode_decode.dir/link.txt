@@ -1,1 +1,0 @@
-/usr/bin/c++        CMakeFiles/encode_decode.dir/src/encode_decode.cpp.o  -o encode_decode  -L/usr/local/lib -rdynamic 
